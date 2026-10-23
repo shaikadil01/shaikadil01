@@ -1,5 +1,10 @@
 # 💫 About Me:
-🎓 I’m an AI & Data Science student <br>🤝 I’m looking to collaborate on web development <br>💡 I’m exploring real-world problems to solve with AI <br>🌱 I’m currently learning AI, ML, data science, and web development <br>💬 Ask me about coding, design, technology and Photography <br>⚡ Fun fact: I turn random ideas into projects and pixels into memories! 📸💻
+🎓 I’m an AI & Data Science student <br>
+🤝 I’m looking to collaborate on web development <br>
+💡 I’m exploring real-world problems to solve with AI <br>
+🌱 I’m currently learning AI, ML, data science, and web development <br>
+💬 Ask me about coding, design, technology and Photography <br>
+⚡ Fun fact: I turn random ideas into projects and pixels into memories! 📸💻
 
 
 ## 🌐 Socials:
